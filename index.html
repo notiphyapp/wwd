@@ -16,7 +16,7 @@
 			href="https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900">
 		
 		<!-- // preload  css and js -->
-		<link href="https://cdn.jsdelivr.net/gh/cherrybase/cherrybase.github.io@cece899be66a3b46c89054a9f2bc1679af76918b/app-account.js?_=5568728" rel=preload
+		<link href="https://cdn.jsdelivr.net/gh/cherrybase/cherrybase.github.io@cece899be66a3b46c89054a9f2bc1679af76918b/app-page.js?_=5568728" rel=preload
 			as=script>
 		<link href="https://cdn.jsdelivr.net/gh/cherrybase/cherrybase.github.io@cece899be66a3b46c89054a9f2bc1679af76918b/css/chunk-common.css?_=5568728"
 			rel=preload as=style>
@@ -38,7 +38,9 @@
     <script>// Single Page Apps for GitHub Pages
       // CREDITS: https://github.com/rafgraph/spa-github-pages
       // See also 404.html
-      window.CONST = Object.assign(window.CONST || {},((l) => {
+      window.CONST = Object.assign(window.CONST || {
+      	CDN_URL : 'https://cdn.jsdelivr.net/gh/cherrybase/cherrybase.github.io@cece899be66a3b46c89054a9f2bc1679af76918b'
+      },((l) => {
         console.log("search",l.search)
         if (l.search[1] !== '/' ) {
           return
