@@ -23,25 +23,26 @@ One on which fraudsters cannot engage with the end customers.Enterprises concern
 --------------------------------------------------------------
 # Benefits of using the OA Platform
 
-## Authorised Senders Only
+## Authorised Senders Only  {@icon:fas fa-sitemap} 
 We authenticate and authorise enterprises before they can send out their first message. Users of the OA App are assured that the sender is a genuine enterprise. Say goodbye to malware and smishing attacks
 
-## Authenticated Users
+## Authenticated Users {@icon:fas fa-sitemap} 
 The OA platform ensures that the User is verified by employing Two-Factor Authentication at the point of account creation and other algorithmic driven events, for continued authentication.
 
-## End-to-End Encryption
+## End-to-End Encryption {@icon:fas fa-sitemap} 
 All messages communicated through the OA infrastructure are highly secured using end-to-end encryption technology that ensures safe delivery of messages. Your Customer communication is secure.
 
-## Data Integrity
+## Data Integrity {@icon:fas fa-sitemap} 
 A2P encryption ensures that your messages can't be intercepted, copied or modified. You can trust that the message sent by the enterprise is the message that you have received on the OA App.
 
-## User-Friendly Interface
+## User-Friendly Interface {@icon:fas fa-sitemap} 
 OA messaging app has a user interface that is easy to navigate, with rich features and responsiveness to enhance communication with your customers. Images, videos, documents and text. Go long on messages. Go big on payloads.
 
-## Mobile data and WiFi
+## Mobile data and WiFi {@icon:fas fa-sitemap} 
 The OA platform delivers messages using data networks, so as a User, you are not affected by last mile tower signal strength issues. If you are travelling and not on international roaming, no worries we'll find you once your mobile is connected to data.
 
 --------------------------------------------------------------
+
 # Our Promise
 We don't just sell secure A2P messaging platforms; we sell peace of mind. In an era where information is the lifeblood of enterprises, we stand as your dedicated partner, weaving layers of impenetrable security into every message you send. Your data isn't just important to us; it's sacred. Experience communication without compromise.
 
