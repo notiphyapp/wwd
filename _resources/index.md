@@ -1,6 +1,6 @@
 
 
-# MySiteFrom
+# OTPAlerts
 
 --------------------------------------------------------------
 # Empowering Communication. Ensuring Security.
@@ -10,9 +10,15 @@ We provide enterprises with a cutting edge, highly secure A2P (Application-to-Pe
 --------------------------------------------------------------
 # Why OA - OTP and Alerts ?
 
-SMS, WhatsApp and TrueCaller have been compromised by fraudsters claiming enterprise identity, to rob gullible people of their hard earned money.There is a compelling need for an alternative secure, communication channel.
+SMS, WhatsApp and TrueCaller have been compromised by fraudsters claiming enterprise identity, to rob gullible people of their hard earned money.
 
-OA, is an end to end encrypted, Application to Person communication infrastructure, for enterprises to send out secure messages to their customers. OTP's, alerts, transaction, service messaging and marketing promotions with rich media - images, videos and documents.OA is a channel which an OA App user and an enterprise can trust. One on which only accredited enterprises can send out messages to their customers. One on which fraudsters cannot engage with the end customers.Enterprises concerned about their customers are the early adopters. Lead the revolution.
+There is a compelling need for an alternative secure, communication channel.
+
+OA, is an end to end encrypted, Application to Person communication infrastructure, for enterprises to send out secure messages to their customers. OTP's, alerts, transaction, service messaging and marketing promotions with rich media - images, videos and documents.
+
+OA is a channel which an OA App user and an enterprise can trust. One on which only accredited enterprises can send out messages to their customers. 
+
+One on which fraudsters cannot engage with the end customers.Enterprises concerned about their customers are the early adopters. Lead the revolution.
 
 --------------------------------------------------------------
 # Benefits of using the OA Platform
