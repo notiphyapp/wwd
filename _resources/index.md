@@ -7,7 +7,7 @@
 
 We provide enterprises with a cutting edge, highly secure A2P (Application-to-Person) messaging platform. With a relentless focus on ensuring the confidentiality, integrity, and availability of communication, we stand as a pioneer in fortifying digital conversations in today's fast-paced business landscape.
 
-![_7ae4af8f-9b27-463f-b9b5-23c2f4021418](https://github.com/notiphyapp/wwd/assets/5462166/59256d8e-4858-47d4-9b9a-31baf4076d97)
+![_7ae4af8f-9b27-463f-b9b5-23c2f4021418](https://github.com/notiphyapp/wwd/assets/5462166/df6c18fa-0042-4510-9ab1-b5cac66893c4)
 
 --------------------------------------------------------------
 # Why OA - OTP and Alerts ?
