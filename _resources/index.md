@@ -56,6 +56,7 @@ Onboarding is effortless with OA with our four-step process:
 - Verify via Two-Factor Authentications.
 - Submit Organisation Documents for Authentication.
 - Connect your audience and start communicating securely.
+
 ![_dc256f0a-56d2-4e1c-b299-4f6fea111a9d](https://github.com/notiphyapp/wwd/assets/5462166/30c7b7f2-ebb5-4a69-af16-52ea7a7d23fc)
 
 --------------------------------------------------------------
@@ -63,7 +64,8 @@ Onboarding is effortless with OA with our four-step process:
 Seamless 2 step process.
 - Scan the QR code to download the OA app from App Store or Play Store
 - Enter your phone number and validate it
-![_f8acfe43-6e79-4473-a090-26984cf1cc2c](https://github.com/notiphyapp/wwd/assets/5462166/46e75a3c-e70d-4e4d-aae3-79313c78ada2)
+
+![_f8acfe43-6e79-4473-a090-26984cf1cc2c](https://github.com/notiphyapp/wwd/assets/5462166/370a4b34-412f-403d-bbcc-4fa3265a4aa7)
 
 --------------------------------------------------------------
 # Pricing and Plans
