@@ -57,7 +57,7 @@ Onboarding is effortless with OA with our four-step process:
 - Submit Organisation Documents for Authentication.
 - Connect your audience and start communicating securely.
 
-![_dc256f0a-56d2-4e1c-b299-4f6fea111a9d](https://github.com/notiphyapp/wwd/assets/5462166/30c7b7f2-ebb5-4a69-af16-52ea7a7d23fc)
+![_dc256f0a-56d2-4e1c-b299-4f6fea111a9d](https://github.com/notiphyapp/wwd/assets/5462166/7c38aa46-38bd-4954-ae30-14feddccf049)
 
 --------------------------------------------------------------
 # User Onboarding
