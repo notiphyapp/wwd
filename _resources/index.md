@@ -47,7 +47,7 @@ The OA platform delivers messages using data networks, so as a User, you are not
 
 # Our Promise
 We don't just sell secure A2P messaging platforms; we sell peace of mind. In an era where information is the lifeblood of enterprises, we stand as your dedicated partner, weaving layers of impenetrable security into every message you send. Your data isn't just important to us; it's sacred. Experience communication without compromise.
-![_10504301-c207-4acb-b67c-e6477fbb5094](https://github.com/notiphyapp/wwd/assets/5462166/c9bc9220-fa03-4dbe-9361-baf393e9c68d)
+![_10504301-c207-4acb-b67c-e6477fbb5094](https://github.com/notiphyapp/wwd/assets/5462166/e5b9cd9e-5ebc-4b56-8cd3-c005786c6a8d)
 
 --------------------------------------------------------------
 # Business Onboarding Process
