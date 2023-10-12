@@ -47,6 +47,7 @@ The OA platform delivers messages using data networks, so as a User, you are not
 
 # Our Promise
 We don't just sell secure A2P messaging platforms; we sell peace of mind. In an era where information is the lifeblood of enterprises, we stand as your dedicated partner, weaving layers of impenetrable security into every message you send. Your data isn't just important to us; it's sacred. Experience communication without compromise.
+![_10504301-c207-4acb-b67c-e6477fbb5094](https://github.com/notiphyapp/wwd/assets/5462166/c9bc9220-fa03-4dbe-9361-baf393e9c68d)
 
 --------------------------------------------------------------
 # Business Onboarding Process
@@ -55,12 +56,14 @@ Onboarding is effortless with OA with our four-step process:
 - Verify via Two-Factor Authentications.
 - Submit Organisation Documents for Authentication.
 - Connect your audience and start communicating securely.
+![_dc256f0a-56d2-4e1c-b299-4f6fea111a9d](https://github.com/notiphyapp/wwd/assets/5462166/30c7b7f2-ebb5-4a69-af16-52ea7a7d23fc)
 
 --------------------------------------------------------------
 # User Onboarding
 Seamless 2 step process.
 - Scan the QR code to download the OA app from App Store or Play Store
 - Enter your phone number and validate it
+![_f8acfe43-6e79-4473-a090-26984cf1cc2c](https://github.com/notiphyapp/wwd/assets/5462166/46e75a3c-e70d-4e4d-aae3-79313c78ada2)
 
 --------------------------------------------------------------
 # Pricing and Plans
