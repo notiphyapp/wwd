@@ -1,6 +1,7 @@
 
 
 # OTPAlerts
+![bg-x-icon-y-b-lue](https://github.com/notiphyapp/wwd/assets/5462166/ef3bd7fe-d759-4a29-8875-34184cef08b9)
 
 --------------------------------------------------------------
 # Empowering Communication. Ensuring Security.
